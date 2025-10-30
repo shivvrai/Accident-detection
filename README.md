@@ -24,3 +24,5 @@ Audio Engine: Python-based libraries used for real-time alert sound generation.
 Communication Module: Twilio for sending automated SMS or call notifications.
 
 Code Management: Version control and collaboration maintained through GitHub.
+<img width="2756" height="3120" alt="image" src="https://github.com/user-attachments/assets/e3d0ee36-9c3c-4448-a376-3e3cf03d1cbc" />
+
