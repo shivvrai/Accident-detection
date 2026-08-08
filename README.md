@@ -20,7 +20,7 @@ The **Accident Detection** project is a machine learning solution designed to au
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shivvrai/Accident-detection.git
+   git clone https://github.com/Yashmit/Accident-detection.git
    cd Accident-detection
    ```
 
@@ -42,4 +42,4 @@ The **Accident Detection** project is a machine learning solution designed to au
 Contributions, issues, and feature requests are welcome!
 
 ---
-*Created by [Shivvrai](https://github.com/shivvrai)*
+*Created by [Yashmit](https://github.com/Yashmit)*
